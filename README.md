@@ -25,7 +25,8 @@
 
 ### 软件
 
-- 搜狗拼音
+- 搜狗拼音: `cmd + space`
+- spotlight: `ctrl + cmd + space`
 - vscode
   - `settings.json` 个人配置
   - `code` 命令启动
@@ -41,7 +42,7 @@
     - one dark pro
     - prettier
 - sublime
-  - `sublime` 命令启动
+  - `subl` 命令启动
   - `.sublime-settings` 个人配置
   - `.sublime-keymap` 键位配置
   - 插件:
@@ -51,14 +52,32 @@
     - jsprettier
     - dracula
 - iTerm2
-  - hotkey window: alt-`
+  - hotkey window: `cmd-~`
 - 欧陆词典
-  - light-peek: alt-shift-d
+  - light-peek: `cmd-shift-e`
 - [open in terminal](https://github.com/Ji4n1ng/OpenInTerminal)
-- [karabiner-elements](https://karabiner-elements.pqrs.org/)
+- [karabiner elements](https://karabiner-elements.pqrs.org/)
+  - emacs 全局键位
 - 柠檬清理
-- postman
-- enpassword
-- [https://www.cockos.com/licecap/](https://www.cockos.com/licecap/) 用于截取 gif 的软件
+- Postman
+- EnPassword
+- [licecap](https://www.cockos.com/licecap/) 用于截取 gif 的软件
 - 腾讯会议
 - [tickeys](https://www.yingdev.com/projects/tickeys)
+- Adobe Reader
+
+### 网站
+
+- Chrome Extensions:
+  - AdGuard AdBlocker
+  - Enhanced Github
+  - Octotree
+  - React Developer Tools
+  - Redux DevTools
+  - Tampermonkey
+  - Vue.js Developer tools
+- Github
+  - 上传新 ssh keys
+- 知乎
+- StackOverflow
+- Youtube
