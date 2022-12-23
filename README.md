@@ -12,6 +12,7 @@
     - zsh-syntax-high-lighting
     - zsh-autosuggestions
     - zsh-autopair
+    - zsh-completions
 - homebrew
   - nodejs
   - python
