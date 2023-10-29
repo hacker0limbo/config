@@ -55,7 +55,7 @@
 - iTerm2
   - hotkey window: `cmd-~`
 - 欧陆词典
-  - light-peek: `cmd-shift-e`
+  - light-peek: `cmd-ctrl-e`
 - [open in terminal](https://github.com/Ji4n1ng/OpenInTerminal)
 - [karabiner elements](https://karabiner-elements.pqrs.org/)
   - emacs 全局键位
