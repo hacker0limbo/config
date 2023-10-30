@@ -66,6 +66,7 @@
 - 腾讯会议
 - [tickeys](https://www.yingdev.com/projects/tickeys)
 - Adobe Reader
+- [SwitchHosts](https://github.com/oldj/SwitchHosts)
 
 ### 网站
 
