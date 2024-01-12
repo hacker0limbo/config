@@ -52,6 +52,7 @@
     - package control
     - jsprettier
     - dracula
+    - markdownediting
 - iTerm2
   - hotkey window: `cmd-~`
 - 欧陆词典
